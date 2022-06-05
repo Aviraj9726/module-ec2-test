@@ -1,4 +1,4 @@
 variable "instance_type" {}
 variable "key" {}
-variable "tags"
+variable "tags" {}
 variable "ami" {}
